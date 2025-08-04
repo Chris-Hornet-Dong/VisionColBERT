@@ -2,4 +2,3 @@
 
 
 /2.0.0/test_model.py：模型测试程序
-size 496
