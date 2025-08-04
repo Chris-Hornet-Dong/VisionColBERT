@@ -1,4 +1,3 @@
-/2.0.0/model.py: 使用CLIP预处理器和maxsim计算相似度的模型
-
-
-/2.0.0/test_model.py：模型测试程序
+version https://git-lfs.github.com/spec/v1
+oid sha256:16cef90f26637ea2d47a95c9a09619c04110e78b5e01aef0b53d665f7f03b7fb
+size 117

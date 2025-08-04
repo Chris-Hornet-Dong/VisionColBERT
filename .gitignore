@@ -1,7 +1,5 @@
 datasets/
-try_data/
 Try_program/
 __pycache__/
 saved_models/
 learn/
-2.0.0/test_model.py
