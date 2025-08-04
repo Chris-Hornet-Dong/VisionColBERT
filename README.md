@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0e3e4a31921735622b7cc575365b4dbf0c5e319e9527f942ca62eb6fe519bf49
+/2.0.0/model.py: 使用CLIP预处理器和maxsim计算相似度的模型
+/2.0.0/test_model.py：模型测试程序
 size 496
