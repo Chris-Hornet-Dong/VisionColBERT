@@ -4,3 +4,4 @@ Try_program/
 __pycache__/
 saved_models/
 learn/
+test_model.py
